@@ -1,5 +1,6 @@
 # Hello-world
-笑对人生！
-Laughter for Life！
-hello-you！
-Have you in your life！
+
+Laughter for Life!
+
+hello-you.
+I Like java,js and spring,I'm very like java.
